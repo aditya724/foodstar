@@ -36,7 +36,7 @@
     "socket.io": "^2.3.0",
     "stripe": "^8.129.0",
     "yarn": "^1.22.10"
-    "node": "11.x"
+    "node": "11.0.0"
   },
   "devDependencies": {
     "laravel-mix": "^5.0.9",
